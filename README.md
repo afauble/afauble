@@ -8,4 +8,11 @@ Software Engineer @ Lockheed Martin
 * 💡 Always looking for opportunities to grow
 
 ### Skills
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="Go_Logo_Blue.png" height="36"></a>
+<div style="display:flex;">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="Go_Logo_Blue.png" height="36"></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="java-logo.png" height="36"></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="JavaScript-logo.png" height="36"></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="vue-icon.png" height="36"></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="Git-Icon.png" height="36"></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="Nuxt_logo.png" height="36"></a>
+</div>
