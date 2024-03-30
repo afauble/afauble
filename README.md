@@ -8,4 +8,4 @@ Software Engineer @ Lockheed Martin
 * 💡 Always looking for opportunities to grow
 
 ### Skills
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="Go-Logo_Blue.png" width="36" height="36"></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="Go_Logo_Blue.png" height="36"></a>
