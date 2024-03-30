@@ -9,10 +9,10 @@ Software Engineer @ Lockheed Martin
 
 ### Skills
 <div style="display:flex;">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="Go_Logo_Blue.png" height="36"></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="java-logo.png" height="36"></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="JavaScript-logo.png" height="36"></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="vue-icon.png" height="36"></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="Git-Icon.png" height="36"></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="Nuxt_logo.png" height="36"></a>
+  <a href="https://go.dev/"><img src="Go_Logo_Blue.png" height="30"></a>
+  <a href="https://www.java.com/en/"><img src="java_logo_icon.png" height="42"></a>
+  <a href="https://www.javascript.com/"><img src="JavaScript-logo.png" height="36"></a>
+  <a href="https://vuejs.org/"><img src="vue-icon.png" height="36"></a>
+  <a href="https://nuxt.com/"><img src="Nuxt_logo.png" height="36"></a>
+  <a href="https://git-scm.com/"><img src="Git-Icon.png" height="36"></a>
 </div>
