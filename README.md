@@ -15,4 +15,5 @@ Software Engineer @ Lockheed Martin
   <a href="https://vuejs.org/"><img src="vue-icon.png" height="36"></a>
   <a href="https://nuxt.com/"><img src="Nuxt_logo.png" height="36"></a>
   <a href="https://git-scm.com/"><img src="Git-Icon.png" height="36"></a>
+  <a href="[https://git-scm.com](https://github.com/charmbracelet/huh)/"><img src="charm_huh.png" height="36"></a>
 </div>
